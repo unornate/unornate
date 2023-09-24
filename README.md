@@ -59,6 +59,7 @@ me:
       - go-lang
       - system design
       - message brocker
+      - data mining
       - machine lerning
     projects:
       - contribute in several open source projects
