@@ -4,13 +4,10 @@
 me:
   moods: "Sadge"
   status: "I haven't been for a long time, I'm trying to start from the beginning here."
-  bio: ""
   specs:
     name: ""
     nickname: "unornate"
     age: "22"
-    gender: "male"
-    nationality: "iranian"
     education: "Computer Engineering"
     interests:
       - coding & computers
@@ -19,9 +16,6 @@ me:
       - skateboard
       - cycling
       - f1
-    languages:
-      - persian
-      - english
   resume:
     skills:
       languages:
@@ -40,11 +34,6 @@ me:
         - AWS
         - Docker
         - Kubernetes
-      concepts:
-        - Backend Engineering
-        - Software Development
-        - SOA & Microservices
-        - RESTful
     experiences:
       personal:
         - cryptocurrency subscription notification system
@@ -56,6 +45,7 @@ me:
     learning:
       - scala
       - go-lang
+      - cloud computing
       - system design
       - message brocker
       - data mining
