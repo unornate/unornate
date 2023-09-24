@@ -1,6 +1,6 @@
 ### Hi there
 
-```yml
+```yaml
 me:
   moods: "Sadge"
   status: "I haven't been for a long time, I'm trying to start from the beginning here."
