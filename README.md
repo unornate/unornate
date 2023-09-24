@@ -1,8 +1,9 @@
 ### Hi there
 
-I haven't been for a long time, I'm trying to start from the beginning here. I try to keep my feed updated. 
+I haven't been for a long time, I'm trying to start from the beginning here. 
 
-###### Todos:
+##### Todos:
+
 
 
 <!--
