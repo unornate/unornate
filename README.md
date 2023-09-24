@@ -44,8 +44,8 @@ me:
       - data mining: "Open"
       - machine lerning: "Open"
     projects:
-      - contribute in several open source projects
-      - chatgpt cli
-      - twitch desktop cli
-      - anti-censorship for terminal (dockerize)
+      - contribute in several open source projects: "Pending"
+      - chatgpt cli: "Pending"
+      - twitch desktop cli: "Pending"
+      - anti-censorship for terminal (dockerize): "Pending"
 ```
