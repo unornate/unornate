@@ -43,8 +43,6 @@ me:
       concepts:
         - Backend Engineering
         - Software Development
-        - Algorithm Design
-        - Data Structure
         - SOA & Microservices
         - RESTful
     experiences:
