@@ -41,6 +41,7 @@ me:
         - Docker
         - Kubernetes
       concepts:
+        - Backend Engineering
         - Software Development
         - Algorithm Design
         - Data Structure
