@@ -1,9 +1,9 @@
 ### Hi there
 
-```
+```yaml
 me:
   moods: "Sadge"
-  status: "I haven't been for a long time, I'm trying to start from the beginning here. "
+  status: "I haven't been for a long time, I'm trying to start from the beginning here."
   bio: ""
   specs:
     name: ""
