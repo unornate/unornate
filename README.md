@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi there
+
+I haven't been for a long time, I'm trying to start from the beginning here. I try to keep my feed updated. 
+
+###### Todos:
+
 
 <!--
 **unornate/unornate** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
