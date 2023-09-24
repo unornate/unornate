@@ -41,9 +41,9 @@ me:
         - Docker
         - Kubernetes
       concepts:
-        - system design
-        - algorithm design
-        - data structure
+        - Software Development
+        - Algorithm Design
+        - Data Structure
         - SOA & Microservices
         - RESTful
     experiences:
@@ -57,6 +57,7 @@ me:
     learning:
       - scala
       - go-lang
+      - system design
       - message brocker
       - machine lerning
     projects:
