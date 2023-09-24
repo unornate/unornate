@@ -8,7 +8,7 @@ me:
     name: ""
     nickname: "unornate"
     age: "22"
-    education: "Computer Engineering"
+    education: "Computer Engineering, Software Engineering"
     interests:
       - coding & computers
       - stream & twitch 
