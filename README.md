@@ -21,7 +21,6 @@ me:
       frameworks:
         - Spring Framework
         - JavaEE
-        - Compose
         - Vuejs
       tools:
         - AWS
