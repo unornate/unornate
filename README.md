@@ -34,13 +34,6 @@ me:
         - AWS
         - Docker
         - Kubernetes
-    experiences:
-      personal:
-        - cryptocurrency subscription notification system
-        - social network platform for employment and freelancing
-        - GitHub projects
-      jobs:
-        - vehicle charging management system with ocpp protocol
   todos:
     learning:
       - scala: "In Progress"
