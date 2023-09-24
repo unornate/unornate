@@ -43,13 +43,13 @@ me:
         - vehicle charging management system with ocpp protocol
   todos:
     learning:
-      - scala
-      - go-lang
-      - cloud computing
-      - system design
-      - message brocker
-      - data mining
-      - machine lerning
+      - scala: "In Progress"
+      - go-lang: "Open"
+      - cloud computing: "Open"
+      - system design: "Open"
+      - message brocker: "Open"
+      - data mining: "Open"
+      - machine lerning: "Open"
     projects:
       - contribute in several open source projects
       - chatgpt cli
