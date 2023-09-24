@@ -3,7 +3,6 @@
 ```yaml
 me:
   moods: "Sadge"
-  status: "I haven't been for a long time, I'm trying to start from the beginning here."
   bio: ""
   specs:
     name: ""
@@ -22,11 +21,6 @@ me:
     languages:
       - persian
       - english
-  todos:
-    learning:
-      - scala
-      - go-lang
-    projects:
   resume:
     skills:
       languages:
@@ -58,6 +52,16 @@ me:
         - GitHub projects
       jobs:
         - vehicle charging management system with ocpp protocol
+  todos:
+    learning:
+      - scala
+      - go-lang
+      - message brocker
+      - machine lerning
+    projects:
+      - chatgpt cli
+      - twitch desktop cli
+      - anti-censorship for terminal (dockerize)
 ```
 
 
